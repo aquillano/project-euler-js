@@ -1,0 +1,3 @@
+__SPOILER ALERT__: This repository contains solutions to [Project Euler](https://projecteuler.net) problems. Only view the source if you've already solved the problem yourself. 
+
+Each problem is solved in ES5 and has a corresponding ES6 version.
